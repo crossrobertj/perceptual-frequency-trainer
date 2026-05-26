@@ -130,9 +130,3 @@ Session preferences (frequency, volume, binaural mode, sync state, focus modalit
 ```
 perceptual-frequency-trainer.html   ← entire application (single file)
 ```
-
----
-
-## License
-
-© Ego Sum Media. All rights reserved.
